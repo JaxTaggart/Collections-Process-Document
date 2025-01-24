@@ -1,0 +1,52 @@
+# Collection Tools
+
+## System Overview
+Collection Tools manage accounts receivable through four integrated systems:
+
+### 1. Automated System Outreaches 
+??? info "System Details"
+    - Manages systematic communications
+    - Escalating emails and letters (10-90 days)
+    - Overseen by Sr. Director of Customer Support and Director of Credit and Collections
+
+### 2. Collections Dashboard (WEBI Report)
+??? info "Dashboard Features"
+    - Portfolio visibility
+    - Aging analysis
+    - Invoice tracking
+    - Graphical/detailed views of aging buckets (current to 180+ days)
+
+### 3. PAE System
+??? info "System Capabilities"
+    - Invoice tracking
+    - Communication management
+    - Collection activities
+    - Three-part worklist
+    - Documentation tools
+
+### 4. Power BI Reports
+??? info "Report Types"
+    - Credit balance invoices
+    - Customer outstanding totals
+    - Delinquency trends
+    - Financial planning analytics
+
+## Notification Timeline
+??? example "Bi-Weekly (10-24 Days)"
+    [Insert your bi-weekly email template]
+    A. Bi-Weekly Emails
+    B. Friendly Payment Reminders
+
+??? example "30-Day Letter"
+    A. First Formal Letter
+    B. Account Status and payment request
+
+??? example "60-Day Letter"
+    A. Increased Urgency
+    B. Outline Consequences
+    C. Payment Options
+
+??? example "90-Day Letter"
+    A. Final Notice
+    B. Required Actions
+    C. Legal Implications
